@@ -4,7 +4,7 @@
 <br>
 
 **👨‍💻 Sobre Mim**
-* 🎓 Estudante de Engenharia de Software
+* 🎓 Estudante de Engenharia de Software na PUC Campinas
 * 💻 Focado em desenvolvimento full-stack, mobile e qualidade de software
 * 🚀 Construindo projetos práticos para consolidar conhecimentos em arquitetura de sistemas, metodologias ágeis e automação de testes
 
