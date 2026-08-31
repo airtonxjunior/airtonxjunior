@@ -1,16 +1,23 @@
-<!-- Imagem de Capa Gerada Dinamicamente -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20eu%20sou%20o%20Júnior!&fontSize=50&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=olá,%20me%20chamo%20airton%20junior&fontSize=50&animation=fadeIn" width="100%" />
 
 <br>
 
 **👨‍💻 Sobre Mim**
-* 🎓 Estudante de Engenharia de Software.
-* 💻 Focado em desenvolvimento full-stack, mobile e qualidade de software.
-* 🚀 Construindo projetos práticos para consolidar conhecimentos em arquitetura de sistemas e automação de testes.
+* 🎓 Estudante de Engenharia de Software
+* 💻 Focado em desenvolvimento full-stack, mobile e qualidade de software
+* 🚀 Construindo projetos práticos para consolidar conhecimentos em arquitetura de sistemas, metodologias ágeis e automação de testes
+
 
 <br>
 
 **🛠️ Tecnologias e Ferramentas**
+
+**Metodologias Ágeis e Controle de Versão**
+<br>
+<img src="https://img.shields.io/badge/Scrum-2C9EBA?style=for-the-badge&logo=agile&logoColor=white" />
+<img src="https://img.shields.io/badge/Kanban-227CE3?style=for-the-badge&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 **Back-end e Frameworks**
 <br>
@@ -34,5 +41,6 @@
 
 **Testes e Qualidade**
 <br>
-<img src="https://img.shields.io/badge/Software_Testing-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/QA_Assurance-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Testes_Unitários-4CAF50?style=for-the-badge&logo=testing-library&logoColor=white" />
+<img src="https://img.shields.io/badge/Casos_de_Testes-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
