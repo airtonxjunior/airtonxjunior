@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=olá,%20me%20chamo%20Airton%20Junior&fontSize=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá,%20me%20chamo%20Airton%20Junior&fontSize=50&animation=fadeIn" width="100%" />
 
 <br>
 
